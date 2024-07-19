@@ -1,0 +1,6 @@
+[package]
+name = "shiny-j"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yash Agasti <saurav@yaa.sh>"]
+[dependencies]
