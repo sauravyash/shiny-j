@@ -84,9 +84,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tests: Not Implemented, Failing, Partially Implemented, Passing, N/A (for components that don't require direct testing)
 
 ## Recent Updates:
-- [Date]: Implemented basic structure for SymbolTable
-- [Date]: Started work on the Parser component
-- [Date]: Initialized project structure and documentation
+### 19 July 2024
+- Implemented basic structure for SymbolTable
+- Started work on the Parser component
+- Initialized project structure and documentation
 
 ## Next Steps:
 1. Complete the Parser implementation
